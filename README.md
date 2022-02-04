@@ -9,9 +9,9 @@ class ViniAntunes:
         self.education = 'Physics - Institute of the University of São Paulo (USP)'
         self.knowledges = {
             'code': ['Python', 'JavaScript', 'SQL', 'HTML', 'CSS', 'Java'],
-            'database': ['Snowflake'],
+            'database': ['Snowflake', 'BigQuery'],
             'libs': ['pandas', 'requests', 'BeautifulSoup', 'numpy', 'matplotlib', 'seaborn', 'sklearn'],
-            'tools': ['Jupyter notebook', 'Databricks', 'QuickSight', 'GitHub', 'Appsflyer', 'DataStudio', 'VSCode'],
+            'tools': ['Jupyter', 'Databricks', 'QuickSight', 'GitHub', 'Appsflyer', 'DataStudio', 'VSCode', 'Dataform'],
             'others': ['Physics', 'Math', 'Teach', 'Data Analysis']
         }
 
