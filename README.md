@@ -6,7 +6,7 @@ class ViniAntunes:
         self.username = 'ViniViniAntunes'
         self.name = 'Vini Antunes'
         self.web = 'https://viniviniantunes.github.io/'
-        self.education = 'Physics - Institute of the University of São Paulo (USP)'
+        self.education = 'Physics - Institute of Physics at the University of São Paulo (USP)'
         self.knowledges = {
             'code': ['Python', 'JavaScript', 'SQL', 'HTML', 'CSS', 'Java'],
             'database': ['Snowflake', 'BigQuery'],
