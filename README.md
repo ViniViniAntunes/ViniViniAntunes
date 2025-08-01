@@ -35,6 +35,6 @@ if __name__ == '__main__':
 <br>
 
 <div align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=ViniViniAntunes&show_icons=true&theme=buefy">
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=ViniViniAntunes&show_icons=true&theme=buefy">    -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniViniAntunes&count_private=true&layout=compact&theme=buefy">
 </div>
