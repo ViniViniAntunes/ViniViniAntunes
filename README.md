@@ -38,6 +38,3 @@ if __name__ == '__main__':
   <img src="https://github-readme-stats.vercel.app/api?username=ViniViniAntunes&show_icons=true&theme=buefy">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniViniAntunes&count_private=true&layout=compact&theme=buefy">
 </div>
-
-<h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{ViniViniAntunes}/count.svg" alt="ViniViniAntunes :: Visitor's Count" /></p>
