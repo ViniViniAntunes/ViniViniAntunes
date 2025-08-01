@@ -20,7 +20,7 @@ class ViniAntunes:
 
     def greetings(self):
         print(f"Hi there, my name is {self.name}")
-        print(f"I'm graduated in {self.education.split(' - ')[0]} in {self.education.split(' - ')[1]}")
+        print(f"I'm graduated in {self.education.split(' - ')[0]} at {self.education.split(' - ')[1]}")
         print(f"You can find more about me in {self.web}")
 
 if __name__ == '__main__':
